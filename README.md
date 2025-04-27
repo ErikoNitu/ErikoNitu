@@ -7,7 +7,7 @@ and a passion for building exceptional projects.
 
 Some of my projects include:
 
-<h3>CLI Image Editor<\h3>
+<h3>CLI Image Editor</h3>
 Technologies: C
 Load, edit, apply filters, equalize colors, generate histograms and save images.
 
