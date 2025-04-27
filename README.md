@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
+
 ## Hi there 👋
 
 I'm Eriko, computer engineering student, professional athlete and programmer.
