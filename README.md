@@ -10,27 +10,27 @@ Some of my projects include:
 <h3>CLI Image Editor</h3>
 Technologies: C
 Load, edit, apply filters, equalize colors, generate histograms and save images.
-<break>
+<br>
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask
 A website that visualizes sorting algorithms in real time, with a Python backend
-<break>
+<br>
 <h3>AGR EXPRESS Website</h3>
 Technologies: HTML, CSS, JavaScript
 A presentation website for a transportation company
-<break>
+<br>
 <h3>Neural Network for Handwritten Digit Recognition</h3>
 Technologies: GNU Octave, logistic regression, gradient descent
 Built and trained a basic neural network from scratch to classify handwritten digits
-<break>
+<br>
 <h3>Browser Navigation Simulator</h3>
 Technologies: C, data structures
 Built core navigation functionalities for a simulated browser.
-<break>
+<br>
 <h3>Logical Design of a Slot Machine</h3>
 Technologies: Logic Circuits & Logic Design
 Documented the logical design using variable-format microinstructions.
-<break>
+<br>
 <h3>Exillion game</h3>
 Technologies: Godot, Python, numpy, torch, tensorboard, renpy
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring
