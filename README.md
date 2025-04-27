@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Eriko, computer engineering student, professional athlete and programmer.
-(https://github.com/user-attachments/assets/0c4acec2-37cc-4a76-8cdf-05a1e04f42b1)
+![logo Eriko](https://github.com/user-attachments/assets/f7653080-a985-461a-879d-449163724f8f)
+
 
 <!--
 **ErikoNitu/ErikoNitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
