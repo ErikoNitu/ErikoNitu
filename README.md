@@ -9,17 +9,20 @@ Some of my projects include:
 <br><br>
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask<br>
-A website that visualizes sorting algorithms in real time, with a Python backend
+A website that showcases various sorting algorithms, implemented on the <br>
+backend using Python. The project allows users to understand and visualize how <br>
+sorting algorithms work in real time, with visual illustrations of the sorting process.
 <br><br>
-<h3>AGR EXPRESS Website</h3>
+<h3>AGR EXPRESS LINE Website</h3>
 Technologies: HTML, CSS, JavaScript<br>
-A presentation website for a transportation company
+A presentation website for a transportation company.
 <br><br>
 <h3>Exillion game</h3>
 Technologies: Godot, Python, numpy, torch, tensorboard, renpy<br>
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring <br>
-a intriguing plot where life becomes currency, enemies are trained with AI and your <br>
-progress depends on what decisions you take.
+a intriguing plot where life becomes currency, enemies are trained using <br>
+reinforcement learning and your progress depends on what decisions you take. <br>
+Our game won second place from Amazon Games in the Hackitall 2025 event. 
 
 
 <!--
