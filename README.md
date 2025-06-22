@@ -17,8 +17,8 @@ A presentation website for a transportation company.
 Technologies: Godot, Python, numpy, torch, tensorboard, renpy <br>
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring an intriguing plot where life becomes currency, enemies are trained using reinforcement learning and your progress depends on what decisions you take. <br>
 Our game won second place from Amazon Games in the Hackitall 2025 event. 
-
-
+<br><br>
+For more projects you can check my repositories.
 <!--
 **ErikoNitu/ErikoNitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
