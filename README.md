@@ -17,7 +17,7 @@ Applied forward propagation, cost function with regularization and backpropagati
 Trained the model using fmincg (conjugate gradient optimization) and achieved class predictions via argmax over sigmoid outputs.
 <br><br>
 <h3>CLI Image Editor</h3>
-A command-line image editor built in C, capable of performing various operations on images, including loading, selecting regions, cropping, rotating, generating histograms, equalizing colors, and applying filters such as sharpen, edge detection, blur and Gaussian blur. The final image can also be saved to disk.
+A command-line image editor built in C, capable of performing various operations on images, including loading, selecting regions, cropping, rotating, generating histograms, equalizing colors and applying filters such as sharpen, edge detection, blur and Gaussian blur. The final image can also be saved to disk.
 <br><br>
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
