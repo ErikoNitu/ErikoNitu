@@ -22,7 +22,7 @@ A command-line image editor built in C, capable of performing various operations
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask <br>
 A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
-<br><br>
+<br><br><br>
 
 For more projects you can check my repositories.
 <!--
