@@ -10,6 +10,13 @@ Technologies: Godot, Python, numpy, torch, tensorboard, renpy. <br>
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring an intriguing plot where life becomes currency, enemies are trained using reinforcement learning and your progress depends on what decisions you take. <br>
 Our game won second place from Amazon Games in the Hackitall 2025 event. 
 <br><br>
+<h3> Local-Vibe community App </h3>
+Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
+Developed during a hackathon, Local-Vibe is a community-driven app that helps
+users discover nearby events through an interactive map and an AI chatbot that
+recommends activities based on mood and preferences. Event hosts can also add
+their own pins for others to find
+<br><br>
 <h3>Neural Network for Handwritten Digit Recognition</h3>
 Technologies: GNU Octave, Machine Learning, Neural Networks, Supervised Learning, Gradient Descent, Backpropagation, Model Evaluation.
 Implemented from scratch a neural network in Octave to classify handwritten digits (0–9) using supervised learning.
@@ -18,13 +25,6 @@ Trained the model using fmincg (conjugate gradient optimization) and achieved cl
 <br><br>
 <h3>CLI Image Editor</h3>
 A command-line image editor built in C, capable of performing various operations on images, including loading, selecting regions, cropping, rotating, generating histograms, equalizing colors and applying filters such as sharpen, edge detection, blur and Gaussian blur. The final image can also be saved to disk.
-<br><br>
-<h3> Local-Vibe community App <\h3>
-Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
-Developed during a hackathon, Local-Vibe is a community-driven app that helps
-users discover nearby events through an interactive map and an AI chatbot that
-recommends activities based on mood and preferences. Event hosts can also add
-their own pins for others to find
 <br><br>
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
