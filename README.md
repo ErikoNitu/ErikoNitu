@@ -19,6 +19,13 @@ Trained the model using fmincg (conjugate gradient optimization) and achieved cl
 <h3>CLI Image Editor</h3>
 A command-line image editor built in C, capable of performing various operations on images, including loading, selecting regions, cropping, rotating, generating histograms, equalizing colors and applying filters such as sharpen, edge detection, blur and Gaussian blur. The final image can also be saved to disk.
 <br><br>
+<h3> Local-Vibe community App <\h3>
+Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
+Developed during a hackathon, Local-Vibe is a community-driven app that helps
+users discover nearby events through an interactive map and an AI chatbot that
+recommends activities based on mood and preferences. Event hosts can also add
+their own pins for others to find
+<br><br>
 <h3>SortYourself Website</h3>
 Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
 A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
