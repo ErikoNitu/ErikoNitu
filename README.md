@@ -10,6 +10,12 @@ Technologies: Godot, Python, numpy, torch, tensorboard, renpy. <br>
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring an intriguing plot where life becomes currency, enemies are trained using reinforcement learning and your progress depends on what decisions you take. <br>
 Our game won second place from Amazon Games in the Hackitall 2025 event. 
 <br><br>
+<h3> Rotables Optimization System </h3>
+Technologies: Java, OOP, Greedy optimization
+Built a system to optimize rotable kit logistics in a hub-and-spoke network, adjusting kit loading and purchasing based on real-time flight and inventory data to reduce costs. 
+
+Developed during a hackathon and awarded Mention from SAP.
+<br><br>
 <h3> Local-Vibe community App </h3>
 Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
 Developed during a hackathon, Local-Vibe is a community-driven app that helps
