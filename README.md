@@ -21,7 +21,7 @@ I'm Eriko, computer engineering student, professional athlete and <b>driven </b>
 </p>
 
 ## Featured Projects
-<br><br>
+
 <h3>Exillion 2D game</h3>
 Technologies: Godot, Python, numpy, torch, tensorboard, renpy. <br>
 A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring an intriguing plot where life becomes currency, enemies are trained using reinforcement learning and your progress depends on what decisions you take. <br>
