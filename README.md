@@ -1,60 +1,23 @@
-<img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
-## GitHub Statistics
-
-
-
-
-## Hi there 👋
-I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
-
-## LANGUAGES AND TOOLS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,git,linux&theme=dark" />
-</p>
-
-Some of my projects include:
+<h3>Exillion 2D Game</h3>
+Technologies: Godot, Python, PyTorch, TensorBoard, Ren'Py.<br>
+A narrative-driven 2D game developed in 48 hours during a hackathon. Features reinforcement learning-based enemies and a unique life-as-currency mechanic. Awarded 2nd place by Amazon Games at HackITall 2025.
 <br><br>
-<h3>Exillion 2D game</h3>
-Technologies: Godot, Python, numpy, torch, tensorboard, renpy. <br>
-A 2D game developed during a hackaton in 48h alongside 2 teammates, featuring an intriguing plot where life becomes currency, enemies are trained using reinforcement learning and your progress depends on what decisions you take. <br>
-Our game won second place from Amazon Games in the Hackitall 2025 event. 
-<br><br>
-<h3> Rotables Optimization System </h3>
-Technologies: Java, OOP, Greedy optimization
-Built a system to optimize rotable kit logistics in a hub-and-spoke network, adjusting kit loading and purchasing based on real-time flight and inventory data to reduce costs. 
 
-Developed during a hackathon and awarded Mention from SAP.
+<h3>Rotables Optimization System</h3>
+Technologies: Java, OOP, Greedy Algorithms.<br>
+Optimized rotable kit logistics in a hub-and-spoke network using real-time flight and inventory data. Developed during a hackathon and received an SAP Mention Award.
 <br><br>
+
 <h3>DraWar AI</h3>
-Technologies: Python, FAST API, PyTorch, WebSockets, Google QuickDraw database for training<br>
-Multiplayer drawing game where players compete to have their sketches recognized by an AI model, using WebSocket
-communication and a custom trained neural network for image recognition.
+Technologies: Python, FastAPI, PyTorch, WebSockets.<br>
+Multiplayer drawing game where players compete to have sketches recognized by a custom-trained AI model. Built using real-time WebSocket communication and machine learning.
 <br><br>
-<h3> Local-Vibe community App </h3>
-Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
-Developed during a hackathon, Local-Vibe is a community-driven app that helps
-users discover nearby events through an interactive map and an AI chatbot that
-recommends activities based on mood and preferences. Event hosts can also add
-their own pins for others to find
-<br><br>
-<h3>Neural Network for Handwritten Digit Recognition</h3>
-Technologies: GNU Octave, Machine Learning, Neural Networks, Supervised Learning, Gradient Descent, Backpropagation, Model Evaluation.
-Implemented from scratch a neural network in Octave to classify handwritten digits (0–9) using supervised learning.
-Applied forward propagation, cost function with regularization and backpropagation for gradient computation.
-Trained the model using fmincg (conjugate gradient optimization) and achieved class predictions via argmax over sigmoid outputs.
-<br><br>
-<br><br>
-For more projects check my repositories :)
-<!--<h3>CLI Image Editor</h3>
-A command-line image editor built in C, capable of performing various operations on images, including loading, selecting regions, cropping, rotating, generating histograms, equalizing colors and applying filters such as sharpen, edge detection, blur and Gaussian blur. The final image can also be saved to disk.
-<br><br>
-<h3>SortYourself Website</h3>
-Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
-A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
-<br><br><br>
----!>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
-</p>
+<h3>Local-Vibe Community App</h3>
+Technologies: React, TypeScript, Firebase.<br>
+Community platform for discovering local events through an interactive map and AI-powered recommendations. Users can also create and share their own events.
+<br><br>
+
+<h3>Handwritten Digit Recognition Neural Network</h3>
+Technologies: GNU Octave, Machine Learning, Neural Networks.<br>
+Implemented a neural network from scratch for digit classification, including forward propagation, backpropagation, regularization, and model training.
