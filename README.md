@@ -14,7 +14,7 @@
 ## Hi there 👋
 I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
 
-## LANGUAGES AND TOOLS
+## Languages and tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,git,linux&theme=dark" />
