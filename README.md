@@ -1,5 +1,16 @@
 <img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
+## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErikoNitu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikoNitu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErikoNitu&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 ## Hi there 👋
 I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
 
