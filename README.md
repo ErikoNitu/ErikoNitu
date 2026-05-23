@@ -1,14 +1,14 @@
 <img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
-
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErikoNitu&show_icons=true&theme=transparent&rank_icon=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikoNitu&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikoNitu&layout=compact&theme=transparent" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikoNitu&theme=github_dark" />
+</p>p>
 
 ## Hi there 👋
 I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
