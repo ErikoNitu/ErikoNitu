@@ -1,4 +1,15 @@
-<img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Profile Image" width="180">
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Hi there 👋
 I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
@@ -51,7 +62,4 @@ A website that showcases various sorting algorithms, implemented on the backend 
 <br><br><br>
 ---!>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
-</p>
  
