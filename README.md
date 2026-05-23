@@ -14,11 +14,6 @@
 ## Hi there 👋
 I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
 
-## Languages and tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,git,linux&theme=dark" />
-</p>
 
 ## Featured Projects
 
@@ -61,5 +56,11 @@ Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
 A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
 <br><br><br>
 ---!>
+
+## Languages and tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,git,linux&theme=dark" />
+</p>
 
  
