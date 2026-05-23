@@ -53,7 +53,7 @@ A command-line image editor built in C, capable of performing various operations
 Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
 A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
 <br><br><br>
-
+---!>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikoNitu&theme=github_dark" />
 </p>
