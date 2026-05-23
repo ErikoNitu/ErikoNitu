@@ -9,16 +9,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikoNitu&theme=github_dark" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErikoNitu&theme=tokyonight&hide_border=true" />
-</p>
+
+
+## Hi there 👋
+I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
+
 ## LANGUAGES AND TOOLS
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,git,linux&theme=dark" />
 </p>
-## Hi there 👋
-I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.
 
 Some of my projects include:
 <br><br>
