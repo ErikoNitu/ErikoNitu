@@ -1,14 +1,7 @@
 <img src="https://github.com/user-attachments/assets/2f1e036f-9507-4a75-85d0-140b2f404b72" alt="Alt Text" width="300" height="300">
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikoNitu&theme=github_dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikoNitu&theme=github_dark" />
-</p>
 
 
 ## Hi there 👋
@@ -61,18 +54,11 @@ Technologies: HTML, CSS, JavaScript, Python & Flask. <br>
 A website that showcases various sorting algorithms, implemented on the backend using Python. The project allows users to understand and visualize how sorting algorithms work in real time, with visual illustrations of the sorting process.
 <br><br><br>
 
-For more projects you can check my repositories.
-<!--
-**ErikoNitu/ErikoNitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErikoNitu&theme=github_dark" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErikoNitu&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErikoNitu&theme=github_dark" />
+</p>
