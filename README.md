@@ -16,6 +16,11 @@ Built a system to optimize rotable kit logistics in a hub-and-spoke network, adj
 
 Developed during a hackathon and awarded Mention from SAP.
 <br><br>
+<h3>DraWar AI</h3>
+Technologies: Python, FAST API, PyTorch, WebSockets, Google QuickDraw database for training<br>
+Multiplayer drawing game where players compete to have their sketches recognized by an AI model, using WebSocket
+communication and a custom trained neural network for image recognition.
+<br><br>
 <h3> Local-Vibe community App </h3>
 Technologies: React, TypeScript, Firebase (auth, deployment & database). <br>
 Developed during a hackathon, Local-Vibe is a community-driven app that helps
