@@ -18,7 +18,7 @@
 
 ## Hi there 👋
 
-I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects. Check my personal website for more about me -> https://eriko-nitu.com/
+I'm Eriko, computer engineering student, professional athlete and <b>driven </b> programmer <b>fueled </b> by technology and innovation, with a sharp eye for detail and a passion for building exceptional projects.<br> Check my personal website for more about me -> https://eriko-nitu.com/
 
 
 ## Featured Projects
